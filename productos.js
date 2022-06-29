@@ -74,6 +74,10 @@ const product1 = new productos( 'Caramelos', 3499, 'img')
 // product1.getProduct()
 product1.getProductRandom()
 
+const PORT =  process.env.PORT || 8989
 
-
-const server =  app.listen( '8989', console.log( 'Funcionando 8989'))
+const product =  app.listen( 
+    PORT, () => {
+        console.log( `Servidor Funcionando en el puerto ${ product.address().port }`)
+    }
+)
