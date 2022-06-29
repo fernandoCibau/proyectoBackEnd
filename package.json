@@ -1,0 +1,12 @@
+{
+  "name": "practico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "productos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon productos.js"
+  },
+  "author": "Practica de servidor glitch y heroku",
+  "license": "ISC"
+}

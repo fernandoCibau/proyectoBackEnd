@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Chocolate",
+        "price": 2399,
+        "img": "img",
+        "id": 1
+    },
+    {
+        "name": "Alfajor",
+        "price": 1690,
+        "img": "img",
+        "id": 2
+    },
+    {
+        "name": "Galletitas",
+        "price": 5799,
+        "img": "img",
+        "id": 3
+    },
+    {
+        "name": "Caramelos",
+        "price": 3499,
+        "img": "img",
+        "id": 4
+    },
+        {
+        "name": "Coca Cola",
+        "price": 10789,
+        "img": "img",
+        "id": 5
+    },    {
+        "name": "Pepsi",
+        "price": 9506,
+        "img": "img",
+        "id": 6
+    }
+]
